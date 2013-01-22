@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Class Year
-Plugin URI: http://github.com/berkmancenter
+Plugin URI: https://github.com/berkmancenter/class_year
+Author: Tomas Reimers
+Author URI: http://tomasreimers.com
 Description: Adds a class year field for all users, useful for blogs used in academic institutions.
 Version: 0.1
 */
